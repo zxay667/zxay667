@@ -6,6 +6,98 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+# 👋 Hi, I'm Yogish
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> Welcome to my GitHub Profile!
+</p>
+
+---
+
+## 🌟 About Me
+
+I'm **Yogish**, a tech enthusiast passionate about building innovative solutions with code. I enjoy working on web development, backend systems, and exploring new technologies. My journey in programming has been fueled by curiosity and a love for problem-solving.
+
+- 🔭 Currently focusing on **Full-Stack Development** using the **MERN Stack**.
+- 🌱 Constantly learning and experimenting with new tools and frameworks.
+- 💬 Feel free to reach out if you want to collaborate or just chat about tech!
+- Always ready to learn 
+  
+
+---
+
+## 🛠️ Tech Stack
+
+Here’s what I’m proficient in:
+
+### Frontend:
+- **HTML**, **CSS**, **JavaScript**
+- **React.js** (Building dynamic and responsive UIs)
+  
+### Backend:
+- **Node.js** (Building scalable server-side applications)
+- **Express.js** (For RESTful APIs)
+
+### Database:
+- **SQL** (Relational databases)
+- **MongoDB** (NoSQL database)
+
+### Other Skills:
+- **Python** (Scripting, Automation, and Data Analysis)
+- **Git & GitHub** (Version Control)
+
+---
+
+## 🚀 Projects
+
+I love building projects that solve real-world problems. Here are some of the things I've worked on:
+
+- **Portfolio Website**: A personal portfolio built with React and styled with CSS.
+- **Task Manager App**: A full-stack app using the MERN stack to manage daily tasks.
+- **Weather Dashboard**: A Python-based weather app that fetches real-time data using APIs.
+
+> Check out my [GitHub Projects](https://github.com/yourusername?tab=repositories) for more details.
+
+---
+
+## 📈 Learning Goals
+
+I'm always eager to learn and grow. Some of the areas I’m currently exploring include:
+
+- **Cloud Computing**: AWS, Docker, Kubernetes
+- **Machine Learning**: TensorFlow, PyTorch
+- **DevOps**: CI/CD pipelines, Jenkins
+
+---
+
+## 🤝 Let's Connect!
+
+I’m open to collaborations, discussions, and opportunities. You can find me on:
+
+
+
+- **Email**: yogish053@gmail.com
+
+---
+
+
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Yogish's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+Made with ❤️ by **Yogish**
 <!---
 zxay667/zxay667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
