@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-I'm **Yogish**, a tech enthusiast passionate about building innovative solutions with code. I enjoy working on web development, backend systems, and exploring new technologies. My journey in programming has been fueled by curiosity and a love for problem-solving.
+I'm **Zxay**, a tech enthusiast passionate about building innovative solutions with code. I enjoy working on web development, backend systems, and exploring new technologies. My journey in programming has been fueled by curiosity and a love for problem-solving.
 
 - 🔭 Currently focusing on **Full-Stack Development** using the **MERN Stack**.
 - 🌱 Constantly learning and experimenting with new tools and frameworks.
@@ -97,7 +97,7 @@ I’m open to collaborations, discussions, and opportunities. You can find me on
 
 ---
 
-Made with ❤️ by **Yogish**
+Made with ❤️ by **Zxay**
 <!---
 zxay667/zxay667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
