@@ -50,15 +50,7 @@ Here’s what I’m proficient in:
 
 ---
 
-## 🚀 Projects
 
-I love building projects that solve real-world problems. Here are some of the things I've worked on:
-
-- **Portfolio Website**: A personal portfolio built with React and styled with CSS.
-- **Task Manager App**: A full-stack app using the MERN stack to manage daily tasks.
-- **Weather Dashboard**: A Python-based weather app that fetches real-time data using APIs.
-
-> Check out my [GitHub Projects](https://github.com/yourusername?tab=repositories) for more details.
 
 ---
 
