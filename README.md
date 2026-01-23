@@ -17,10 +17,6 @@
 
 I'm **Zxay**, a tech enthusiast passionate about building innovative solutions with code. I enjoy working on web development, backend systems, and exploring new technologies. My journey in programming has been fueled by curiosity and a love for problem-solving.
 
-- 🔭 Currently focusing on **Full-Stack Development** using the **MERN Stack**.
-- 🌱 Constantly learning and experimenting with new tools and frameworks.
-- 💬 Feel free to reach out if you want to collaborate or just chat about tech!
-- Always ready to learn 
   
 
 ---
